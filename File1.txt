@@ -3,3 +3,5 @@ This is the intial version of my code
 Making a change to this file...
 
 Making this change on feature1 branch
+
+This is developer2 making a change to File1
